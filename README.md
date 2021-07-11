@@ -6,6 +6,8 @@ I am Acky Xu, and currently a third-year student at The University of British Co
 
 Trying to combine both of my academic expereinces, I am interested with retrival of data, and processing the data into meaningful and actionable information.  This means most of my projects will involve some-sort of data retrieval and processing it to something that I can hopefully describe in details!
 
+I am also an amateur photographer, and so you might find few project that I used as an excusing to use my camera!
+
 
 
 <!--
